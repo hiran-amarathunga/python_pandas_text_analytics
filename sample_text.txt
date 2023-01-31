@@ -1,0 +1,7 @@
+Hello, my name is Rao, I am from India. I am 23 year old.
+Hi, my name is Foo and I am from Indonesia. I am 30 year old.
+Good morning, I am a 28 year old student from Malaysia. My name is Alice.
+Hello, my name is Alex, I am from USA. I am 24 year old.
+Hi, my name is Tam and I am from Cambodia. I am 32 year old.
+Good morning, I am a 30 year old student from Thailand. My name is Kim.
+Hi I am a 28 year old doctor from Korea. My name is Lee.
