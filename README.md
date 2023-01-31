@@ -1,4 +1,5 @@
-# python_pandas_text_analytics
+# Python and Pandas Basic Text Analytics
+
 Language Used: Python
 Libraries Used: Regular Expressions, Pandas
 
