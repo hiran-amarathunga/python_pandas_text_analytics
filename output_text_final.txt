@@ -1,0 +1,7 @@
+My occupation is Engineer, My name is Lee, I am from Korea, I am 28 year old.    
+My occupation is Manager, My name is Kim, I am from Thailand, I am 30 year old.  
+My occupation is HR, My name is Tam, I am from Cambodia, I am 32 year old.       
+My occupation is Doctor, My name is Alex, I am from USA, I am 24 year old.       
+My occupation is Plumber, My name is Alice, I am from Malaysia, I am 28 year old.
+My occupation is Mechanic, My name is Foo, I am from Indonesia, I am 30 year old.
+My occupation is Chef, My name is Rao, I am from India, I am 23 year old.        
